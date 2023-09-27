@@ -1,4 +1,4 @@
-## 안녕하세요
+## 안녕하세요 🌟🌞🌜🌛
 
 ### 수요일마다 DevOps 수업을 하고 있는 Github 계정 입니다
 
@@ -7,10 +7,13 @@ My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![HTML](https://img.shields.io/badge/CSS-1572B6)
 
+
 - Github 사용법을 배우고 있어요
 - 너무 어려워요
 - 안 하고싶어요 🧗‍♂️
 
+
+https://github-readme-stats.vercel.app/api?username=qwerdf1133&hide_title=true&show_icons=[%E2%80%A6])](https://github.com/anuraghazra/github-readme-stats
 ### Hi there 👋
 
 <!--
