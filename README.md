@@ -12,7 +12,8 @@ My Skills
 - 너무 어려워요
 - 안 하고싶어요 🧗‍♂️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwerdf1133)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwerdf1133&show icons=true&thema=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Hi there 👋
 
