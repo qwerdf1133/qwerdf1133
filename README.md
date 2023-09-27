@@ -13,7 +13,7 @@ My Skills
 - 안 하고싶어요 🧗‍♂️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=qwerdf1133a&show_icons=true&theme=radical)
+username=qwerdf1133&show_icons=true&theme=radical)
 ![qwerdf1133's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ### Hi there 👋
