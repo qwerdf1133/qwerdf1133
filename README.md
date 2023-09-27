@@ -4,6 +4,7 @@
 
 My Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26-#302683)
+![HTML](https://img.shields.io/badge/CSS-1572B6-#F43059)
 
 - Github 사용법을 배우고 있어요
 - 너무 어려워요
