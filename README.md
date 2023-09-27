@@ -13,7 +13,7 @@ My Skills
 - 안 하고싶어요 🧗‍♂️
 
 
-![HTML](https://github-readme-stats.vercel.app/api?username=qwerdf1133&hide_title=true&show_icons=[%E2%80%A6])]
+![HTML](https://github-readme-stats.vercel.app/api?username=qwerdf1133&hide_title=true&show_icons=[%E2%80%A6])
 ### Hi there 👋
 
 <!--
