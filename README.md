@@ -1,7 +1,7 @@
 ## 안녕하세요
 
 ### 수요일마다 DevOps 수업을 하고 있는 Github 계정 입니다
-![HTML](https://img.shields.io/badge/HTML-E34F26)
+![HTML](https://img.shields.io/badge/HTML-E34F26#302683)
 - Github 사용법을 배우고 있어요
 - 너무 어려워요
 - 안 하고싶어요 🧗‍♂️
