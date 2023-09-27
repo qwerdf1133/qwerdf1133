@@ -1,7 +1,7 @@
 ## 안녕하세요 🌟🌞🌜🌛
 ![header](https://capsule-render.vercel.app/api?text=반가워요!)
 ### 수요일마다 DevOps 수업을 하고 있는 Github 계정 입니다
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn&type=soft)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn&type=waving)
 
 My Skills
 <br/> <hr/>
