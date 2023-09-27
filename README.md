@@ -11,9 +11,8 @@ My Skills
 - Github 사용법을 배우고 있어요
 - 너무 어려워요
 - 안 하고싶어요 🧗‍♂️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![HTML](https://github-readme-stats.vercel.app/api?username=qwerdf1133&hide_title=true&show_icons=[%E2%80%A6])
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwerdf1133a&show_icons=true&theme=radical)
 ### Hi there 👋
 
 <!--
