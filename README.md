@@ -2,11 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?text=부앙부앙&animation=fadeIn&type=waving&color=random)
 ### 수요일마다 DevOps 수업을 하고 있는 Github 계정 입니다
 
-My Skills
-<br/> <hr/>
+My Skills<br/>
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![HTML](https://img.shields.io/badge/CSS-1572B6)
-
+<br/> <hr/>
 
 - Github 사용법을 배우고 있어요
 - 너무 어려워요
